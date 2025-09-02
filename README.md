@@ -37,27 +37,45 @@ Here are some ideas to get you started:
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Evan-ss/Evan-ss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Evan-ss/Evan-ss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Evan-ss/Evan-ss/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<br clear="both">
+<h3 align="center">I am a junior developer.</h3>
 
-<h3 align="center">am a junior developer.</h3>
+---
 
-###
+<h3 align="center">My GitHub Stats</h3>
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Evan-ss&show_icons=true&theme=radical" alt="Evan-ss's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evan-ss&theme=radical" alt="Evan-ss's GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=blue&right_color=black"  />
-</div>
+---
 
-###
+<h3 align="center">My Contribution Graphs</h3>
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Evan-ss/Evan-ss/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+---
+
+<h3 align="center">Visitors</h3>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Evan-ss.Evan-ss&left_color=blue&right_color=black"  />
+</p>
+
+---
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <!-- Tambahkan ikon/tautan media sosial di sini -->
+  <!-- Contoh: <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+</p>
