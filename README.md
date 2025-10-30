@@ -1,8 +1,8 @@
 ![Evan-ss](github-header-banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-      font=Righteou&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+There!+👋,How's+it+going?,I'm+Evan-ss!+👋  ">
+  <img src="https://readme-typing-svg.demolab.com/?
+      font=Righteou&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+There!+👋;How+do+you+do?;I'm+Evan-ss!+👋  ">
 </h1>
 
 
