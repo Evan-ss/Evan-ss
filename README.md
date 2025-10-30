@@ -2,8 +2,9 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
-      font=Righteou&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+There!+👋,How+do+you+do?,I'm+Evan-ss!+👋  ">
+      font=Righteou&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+There!+👋,How's+it+going?,I'm+Evan-ss!+👋  ">
 </h1>
+
 
 <!--
 **Evan-ss/Evan-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
