@@ -1,7 +1,8 @@
 ![Evan-ss](github-header-banner.png)
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=0ACF43&center=true&vCenter=true&width=500&height=70&lines=Hai+There!+%F0%9F%91%8B;+How+do+you+do%3F;+I'm+Evan-ss!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-
+</div>
 
 <!--
 **Evan-ss/Evan-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
